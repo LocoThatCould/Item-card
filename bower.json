@@ -1,0 +1,20 @@
+{
+  "name": "preproc",
+  "version": "0.0.0",
+  "authors": [
+    "Insayt <mr.cool.amelin@mail.ru>"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "normalize-css#^8.0.1",
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.3.1"
+  }
+}

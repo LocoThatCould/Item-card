@@ -1,0 +1,72 @@
+[0405/232545.101:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.124:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232545.124:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.124:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232545.124:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.124:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232545.124:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.124:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232545.124:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.124:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232545.124:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.124:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232545.184:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.184:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232545.184:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.184:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232545.184:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.188:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232545.202:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.206:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232545.206:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.206:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232545.206:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.206:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232545.209:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.209:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232545.209:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.209:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232545.209:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.213:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232545.305:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.307:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232545.307:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.307:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232545.307:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232545.307:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232957.152:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.152:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232957.152:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.152:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232957.152:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.152:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232957.152:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.152:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232957.152:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.152:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232957.152:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.152:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232957.156:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.156:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232957.156:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.156:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232957.156:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.160:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232957.161:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.161:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232957.161:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.161:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232957.161:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.161:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232957.161:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.161:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232957.161:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.161:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232957.161:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.165:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0405/232957.193:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff896fe0000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.193:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0405/232957.193:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff895e30000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.197:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0405/232957.197:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff893c10000 of 64 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0405/232957.197:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
