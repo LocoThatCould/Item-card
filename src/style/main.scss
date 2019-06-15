@@ -14,9 +14,18 @@
 //*********************************************
 //		Main-content
 //*********************************************
-
-
-
+//--CARD--//
+@import "../style/blocks/card/card.scss";
+@import "../style/blocks/card/__card-img-top/card__img-top.scss";
+@import "../style/blocks/card/__toggle/card__toggle.scss";
+@import "../style/blocks/card/card-body/card-body.scss";
+@import "../style/blocks/card/card-body/__name/card-body__name.scss";
+@import "../style/blocks/card/card-body/__description/card-body__description.scss";
+@import "../style/blocks/card/card-body/__description/__list-group/card-body__list-group.scss";
+@import "../style/blocks/card/card-body/__description/__list-group/__item/list-group__item.scss";
+@import "../style/blocks/card/card-body/__icons/card-body__icons.scss";
+@import "../style/blocks/card/card-button/card-button.scss";
+//--CARD--//
 //*********************************************
 //		Main-content
 //*********************************************

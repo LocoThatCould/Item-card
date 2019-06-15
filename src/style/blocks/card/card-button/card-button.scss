@@ -1,0 +1,27 @@
+.card-button a
+{
+    background: linear-gradient(180deg, #EEB565 0%, #F29F29 100%);
+    font-size: 1.1rem;
+    font-family: "OpenSans-Bold", Arial;
+    line-height: 1.8rem;
+    padding-left: 1.1rem;
+    padding-right: 1.1rem;
+    color: #fff;
+}
+
+.card-button a:hover
+{
+    background: linear-gradient(180deg, #F5CB8E 0%, #F29F29 100%);
+    color: #fff;
+}
+
+.card-button a:active
+{
+    background: linear-gradient(180deg, #F29F29 0%, #EEB565 100%);
+    outline: none;
+}
+
+.card-button a:focus
+{
+	box-shadow: none;
+}
