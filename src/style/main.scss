@@ -17,7 +17,8 @@
 //--CARD--//
 @import "../style/blocks/card/card.scss";
 @import "../style/blocks/card/__card-img-top/card__img-top.scss";
-@import "../style/blocks/card/__toggle/card__toggle.scss";
+@import "../style/blocks/card/__heart/card__heart.scss";
+@import "../style/blocks/card/__heart/_active/card__heart_active.scss";
 @import "../style/blocks/card/card-body/card-body.scss";
 @import "../style/blocks/card/card-body/__name/card-body__name.scss";
 @import "../style/blocks/card/card-body/__description/card-body__description.scss";
@@ -25,6 +26,9 @@
 @import "../style/blocks/card/card-body/__description/__list-group/__item/list-group__item.scss";
 @import "../style/blocks/card/card-body/__icons/card-body__icons.scss";
 @import "../style/blocks/card/card-button/card-button.scss";
+@import "../style/blocks/card/card-button/_hover/card-button_hover.scss";
+@import "../style/blocks/card/card-button/_focus/card-button_focus.scss";
+@import "../style/blocks/card/card-button/_active/card-button_active.scss";
 //--CARD--//
 //*********************************************
 //		Main-content
