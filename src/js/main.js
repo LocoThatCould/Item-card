@@ -7,4 +7,4 @@
 /*
  * Custom
  */
-//= partials/app.js
+//= partials/card/card.js

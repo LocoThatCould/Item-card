@@ -1,0 +1,23 @@
+.card-top__toggle
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 1rem;
+	cursor: pointer;
+}
+
+.card-top__toggle .btn
+{
+    box-shadow: none;
+    outline: none;
+}
+
+.card-top__toggle button
+{
+    transition: ease-in-out .08s;
+    background: url('../../../../../img/card/icons/heart.png') no-repeat center;
+    height: 1.6rem;
+    width: 1.6rem;
+    background-size: 100%;
+}

@@ -16,9 +16,9 @@
 //*********************************************
 //--CARD--//
 @import "../style/blocks/card/card.scss";
-@import "../style/blocks/card/__card-img-top/card__img-top.scss";
-@import "../style/blocks/card/__heart/card__heart.scss";
-@import "../style/blocks/card/__heart/_active/card__heart_active.scss";
+@import "../style/blocks/card/card-top/card-top.scss";
+@import "../style/blocks/card/card-top/__toggle/card-top__toggle.scss";
+@import "../style/blocks/card/card-top/__toggle/__active/card-top__toggle_active.scss";
 @import "../style/blocks/card/card-body/card-body.scss";
 @import "../style/blocks/card/card-body/__name/card-body__name.scss";
 @import "../style/blocks/card/card-body/__description/card-body__description.scss";
