@@ -1,5 +1,5 @@
  $(document).ready(function(){
-	$('.card-top__toggle button').click(function () {
-		$(this).toggleClass('card-top__toggle_active');
+	$('.btn-toggle').click(function () {
+		$(this).toggleClass('btn-toggle_active');
 		});
 	});

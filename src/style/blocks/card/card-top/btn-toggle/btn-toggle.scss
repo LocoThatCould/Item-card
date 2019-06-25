@@ -1,0 +1,20 @@
+.btn-toggle
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: .9rem;
+	cursor: pointer;
+    margin: .9rem;
+    margin-right: 1.2rem;
+    margin-top: .8rem;
+    background: url('../../../../../img/card/icons/heart.png') no-repeat center;
+    background-size: 90%;
+    transition: ease-in-out .25s;
+}
+
+.card-top .btn
+{
+    box-shadow: none;
+    outline: none;
+}
